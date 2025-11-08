@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Julianny Sousa ❤️ 
 
-Apaixonada por tecnologia. Estudando programação pela Digital House - Full Stack Dev
+Apaixonada por tecnologia. Estudando Analise de Dados e Front End pela Ada Tech 
 
 <div align="center">
   <a href="https://github.com/JuliannySousa">
